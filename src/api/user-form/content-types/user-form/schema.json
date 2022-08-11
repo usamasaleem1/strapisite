@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "user_forms",
+  "info": {
+    "singularName": "user-form",
+    "pluralName": "user-forms",
+    "displayName": "user form"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "firstname": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
